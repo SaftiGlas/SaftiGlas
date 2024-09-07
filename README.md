@@ -1,7 +1,5 @@
 # 𝑯𝒊 𝑰'𝒎 𝑬𝒓𝒊𝒌
 
-[![](https://img.shields.io/badge/-@Erik_Oster-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Erik_Oster)
-
 ## 𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒘𝒊𝒕𝒉
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
